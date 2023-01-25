@@ -11,6 +11,11 @@ public class EmployeeApplication {
 		
 		System.out.println("Employee Application Started..");
 		
+		System.out.println("Git is working");
+		
+		System.out.println("Checking the appliction");
+		
+		
 		
 		
 	}
