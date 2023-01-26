@@ -15,7 +15,10 @@ public class EmployeeApplication {
 		
 		System.out.println("Checking the appliction");
 		
-		
+		System.out.println("Checking the appliction - test 2");
+		System.out.println("Checking the appliction - test 3");
+		System.out.println("Checking the appliction - test 4");
+		System.out.println("Checking the appliction - test 5");
 		
 		
 	}
