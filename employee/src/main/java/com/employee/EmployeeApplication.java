@@ -20,6 +20,8 @@ public class EmployeeApplication {
 		System.out.println("Checking the appliction - test 4 ");
 		System.out.println("Checking the appliction - test 5 ");
 		
+		System.out.println("Testing the app update");
+		
 		
 	}
 
