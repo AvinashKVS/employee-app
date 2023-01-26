@@ -22,7 +22,8 @@ public class EmployeeApplication {
 		
 		System.out.println("Testing the app update");
 		
-		
+		System.out.println("Checking the appliction - test 6 ");
+		System.out.println("Checking the appliction - test 7 ");
 	}
 
 }
