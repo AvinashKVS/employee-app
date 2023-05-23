@@ -24,6 +24,9 @@ public class EmployeeApplication {
 		
 		System.out.println("Checking the appliction - test 6 ");
 		System.out.println("Checking the appliction - test 7 ");
+		
+		System.out.println("Testing of commit");
+		
 	}
 
 }
